@@ -3,17 +3,9 @@ I am Alifa who is capable of doing Manual Testing and Automation testing using C
 HTML, CSS, PHP, MySQL, and MySQL for my undergraduate thesis. I hope we can improve together. 😁
 
 ## ⚒ Skills
-
----
-permalink: /making-readmes-readable/
-title: Making READMEs readable
----
-
----
-Programming Language: Java, Gherkin, SQL, C++, Python
-Technologies: Cucumber, Selenium, Serenity BDD, Postman
-Other: Develop Test Cases, Algorithms, Data Structures, Problem-Solving
----
+* Programming Language: Java, Gherkin, SQL, C++, Python
+* Technologies: Cucumber, Selenium, Serenity BDD, Postman
+* Other: Develop Test Cases, Algorithms, Data Structures, Problem-Solving
 
 
 <!--
