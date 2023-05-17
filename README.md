@@ -1,6 +1,5 @@
 ### Hello everyone 👋
-I am Alifa who is capable of doing Manual Testing and Automation testing using Cucumber, Selenium, and Serenity BDD in Java programming language for testing a website and API. So I am seeking a Quality Assurance Engineer opportunity. Although I am a Bachelor of Science in Physics, I am a fast learner who can make a website with
-HTML, CSS, PHP, MySQL, and MySQL for my undergraduate thesis. I hope we can improve together. 😁
+I am Alifa who is capable of doing Manual Testing and Automation testing using Cucumber, Selenium, and Serenity BDD in Java programming language for testing a website and API. So I am seeking a Quality Assurance Engineer opportunity. I hope we can improve together. 😁
 
 ## ⚒ Skills
 * Programming Language: Java, Gherkin, SQL, C++, Python
