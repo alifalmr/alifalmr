@@ -3,7 +3,7 @@ I am Alifa who is capable of doing Manual Testing and Automation testing using C
 
 ## ⚒ Skills
 * Programming Language: Java, Gherkin, SQL, C++, Python
-* Technologies: Cucumber, Selenium, Serenity BDD, Postman
+* Technologies: Cucumber, Selenium, Appium, Serenity BDD, Postman
 * Other: Develop Test Cases, Algorithms, Data Structures, Problem-Solving
 
 
